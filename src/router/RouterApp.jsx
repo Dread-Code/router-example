@@ -6,7 +6,7 @@ import { Switch, Route } from "react-router-dom";
 
 export const RouterApp = () => {
   return (
-    <div>
+    <div className="container">
       {/* A <Switch> looks through its children <Route>s and
           renders the first one that matches the current URL. */}
       <Switch>
