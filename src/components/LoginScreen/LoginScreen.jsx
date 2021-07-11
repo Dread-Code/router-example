@@ -12,7 +12,6 @@ export const LoginScreen = () => {
     };
     setUser(newUSer);
   };
-  console.log(user);
   return (
     <div>
       <h1>LoginScreen</h1>
