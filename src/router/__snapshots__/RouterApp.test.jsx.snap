@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RouterApp should match snapshoot 1`] = `
+<div
+  className="container"
+>
+  <div>
+    <h1>
+      HomeScreen
+    </h1>
+    <pre>
+      {"id":123,"name":"LUcas","email":"LUCAS@GMAIL.COM"}
+    </pre>
+  </div>
+</div>
+`;
